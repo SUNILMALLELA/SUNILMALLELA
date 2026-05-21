@@ -67,13 +67,6 @@
 
 ---
 
-### 🔹 Microservices E-commerce Platform
-
-* Built using Spring Cloud, Eureka, Resilience4j
-* Implemented circuit breakers & distributed tracing (Zipkin)
-* Deployed via Docker + Jenkins on AWS
-
----
 
 ### 🔹 AI Smart Email Writer
 
@@ -84,12 +77,7 @@
 
 ---
 
-### 🔹 Employee Management System
 
-* Developed full-stack CRUD application using **Spring Boot + React.js + MySQL**
-* Implemented role-based authentication using **Spring Security + JWT**
-* Designed REST APIs for employee data management and reporting
-* Improved data handling efficiency and reduced manual HR operations
 
 ## 🚀 What I Built
 
