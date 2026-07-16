@@ -7,7 +7,6 @@
 ---
 
 * 💼 Software Development Intern at Verifacts Services
-* 🚀 Reduced deployment cycle by **92% (2 days → 3 hours)**
 * 🌱 Currently learning: System Design, Microservices Scaling
 * 💬 Ask me about: Java, Spring Boot, React.js, SQL, AWS
 * 📍 Bangalore, India
@@ -39,9 +38,9 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microservices-000000?style=flat-square"/>
 <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-2C5263?style=flat-square&logo=jenkins&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/CI/CD-000000?style=flat-square"/>
+
 <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square"/>
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square"/>
 </p>
@@ -85,7 +84,6 @@
 * 🧠 Optimized 15+ MySQL queries — improved execution by **25%**
 * 🔐 Implemented JWT authentication — **zero security incidents**
 * 🐳 Containerized microservices with Docker — **zero environment failures**
-* ⚙️ Automated CI/CD pipelines — saved **40% DevOps effort**
 * ⚛️ Improved React.js performance — **20% faster page load**
   
 ## 📈 Contribution Graph
